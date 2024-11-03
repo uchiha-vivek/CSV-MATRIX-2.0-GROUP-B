@@ -1,0 +1,49 @@
+team1,team2,match_number,venue,city,toss_winner,toss_decision,player_of_match,umpire1,umpire2,reserve_umpire,match_referee,match_type,extras,winner,looser,win_by_runs,win_by_wickets
+Afghanistan,England,1,Narendra Modi Stadium,Ahmedabad,England,field,JE Root,HDPK Dharmasena,Nitin Menon,Sharfuddoula,J Srinath,Group,14.0,England,Afghanistan,,9.0
+Sri Lanka,South Africa,2,Rajiv Gandhi International Stadium,Hyderabad,South Africa,field,KIC Asalanka,AT Holdstock,CM Brown,PR Reiffel,JJ Crowe,Group,18.0,Sri Lanka,South Africa,81.0,
+Netherlands,Pakistan,3,Himachal Pradesh Cricket Association Stadium,Dharamsala,Pakistan,field,Babar Azam,JS Wilson,HDPK Dharmasena,M Erasmus,AJ Pycroft,Group,16.0,Pakistan,Netherlands,,6.0
+New Zealand,Bangladesh,4,Arun Jaitley Stadium,Delhi,Bangladesh,field,DJ Mitchell,RK Illingworth,Sharfuddoula,AG Wharf,J Srinath,Group ,43.0,New Zealand,Bangladesh,102.0,
+India,Australia,5,MA Chidambaram Stadium,Chennai,India,bat,GJ Maxwell,CB Gaffaney,RA Kettleborough,AT Holdstock,RB Richardson,Group,20.0,Australia,India,,6.0
+England,South Africa,6,Rajiv Gandhi International Stadium,Hyderabad,South Africa,field,SM Curran,PR Reiffel,RJ Tucker,Nitin Menon,AJ Pycroft,Group ,17.0,England,South Africa,99.0,
+Afghanistan,Pakistan,7,Himachal Pradesh Cricket Association Stadium,Dharamsala,Pakistan,field,Ibrahim Zadran,Ahsan Raza,P Wilson,HDPK Dharmasena,J Srinath,Group ,14.0,Afghanistan,Pakistan,137.0,
+Bangladesh,Sri Lanka,8,Rajiv Gandhi International Stadium,Hyderabad,Bangladesh,bat,S Samarawickrama,AG Wharf,CB Gaffaney,RJ Tucker,AJ Pycroft,Group ,40.0,Sri Lanka,Bangladesh,,6.0
+Netherlands,Australia,9,Arun Jaitley Stadium,Delhi,Netherlands,bat,DA Warner,MA Gough,PR Reiffel,Sharfuddoula,JJ Crowe,Group ,30.0,Australia,Netherlands,,8.0
+New Zealand,India,10,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,India,field,DP Conway,JS Wilson,RK Illingworth,CM Brown,J Srinath,Group ,30.0,New Zealand,India,134.0,
+Pakistan,England,11,MA Chidambaram Stadium,Chennai,England,field,MA Wood,HDPK Dharmasena,Nitin Menon,AG Wharf,RB Richardson,Group ,20.0,England,Pakistan,,7.0
+Sri Lanka,Australia,12,Narendra Modi Stadium,Ahmedabad,Australia,field,JR Hazlewood,M Erasmus,RK Illingworth,CB Gaffaney,AJ Pycroft,Group ,6.0,Australia,Sri Lanka,,7.0
+Netherlands,Afghanistan,13,Arun Jaitley Stadium,Delhi,Afghanistan,field,LV van Beek,RJ Tucker,Sharfuddoula,P Wilson,JJ Crowe,Group ,28.0,Netherlands,Afghanistan,69.0,
+Bangladesh,India,14,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,Bangladesh,bat,Mohammed Shami,CB Gaffaney,JS Wilson,,RB Richardson,Group ,16.0,India,Bangladesh,,5.0
+South Africa,New Zealand,15,Himachal Pradesh Cricket Association Stadium,Dharamsala,New Zealand,field,DA Miller,MA Gough,RA Kettleborough,Ahsan Raza,JJ Crowe,Group ,40.0,South Africa,New Zealand,38.0,
+England,Netherlands,16,MA Chidambaram Stadium,Chennai,Netherlands,field,JC Buttler,JS Wilson,P Wilson,J Madanagopal,J Srinath,Group ,15.0,England,Netherlands,149.0,
+Pakistan,Australia,17,Maharashtra Cricket Association Stadium,Pune,Pakistan,bat,SPD Smith,AT Holdstock,RA Kettleborough,M Erasmus,AJ Pycroft,Group ,10.0,Australia,Pakistan,,7.0
+India,Sri Lanka,18,M Chinnaswamy Stadium,Bengaluru,Sri Lanka,field,RG Sharma,CM Brown,RK Illingworth,J Madanagopal,RB Richardson,Group ,44.0,India,Sri Lanka,62.0,
+South Africa,Bangladesh,19,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,South Africa,bat,Nazmul Hossain Shanto,Ahsan Raza,M Erasmus,CB Gaffaney,JJ Crowe,Group ,57.0,Bangladesh,South Africa,,5.0
+New Zealand,Afghanistan,20,Wankhede Stadium,Mumbai,Afghanistan,field,TWM Latham,HDPK Dharmasena,Nitin Menon,JS Wilson,J Srinath,Group ,30.0,New Zealand,Afghanistan,229.0,
+England,Australia,21,Himachal Pradesh Cricket Association Stadium,Dharamsala,Australia,field,A Zampa,AT Holdstock,MA Gough,Praveen Sen,AJ Pycroft,Group ,20.0,Australia,England,,4.0
+Sri Lanka,Netherlands,22,MA Chidambaram Stadium,Chennai,Sri Lanka,bat,MP O'Dowd,PR Reiffel,RJ Tucker,HDPK Dharmasena,RB Richardson,Group ,26.0,Netherlands,Sri Lanka,,8.0
+New Zealand,Pakistan,23,Wankhede Stadium,Mumbai,New Zealand,bat,DP Conway,Ahsan Raza,JS Wilson,KN Ananthapadmanabhan,JJ Crowe,Group ,27.0,New Zealand,Pakistan,149.0,
+India,South Africa,24,Arun Jaitley Stadium,Delhi,India,bat,KL Rahul,MA Gough,Sharfuddoula,Nitin Menon,AJ Pycroft,Group ,19.0,India,South Africa,309.0,
+Afghanistan,Bangladesh,25,M Chinnaswamy Stadium,Bengaluru,Afghanistan,bat,Hasan Mahmud,AT Holdstock,CM Brown,RJ Tucker,J Srinath,Group ,10.0,Bangladesh,Afghanistan,,8.0
+Sri Lanka,New Zealand,26,MA Chidambaram Stadium,Chennai,Sri Lanka,bat,JDS Neesham,AG Wharf,PR Reiffel,RA Kettleborough,RB Richardson,Group ,40.0,New Zealand,Sri Lanka,,1.0
+India,England,27,Himachal Pradesh Cricket Association Stadium,Dharamsala,England,field,R Ashwin,M Erasmus,Sharfuddoula,MA Gough,AJ Pycroft,Group ,35.0,India,England,5.0,
+South Africa,Pakistan,28,Eden Gardens,Kolkata,South Africa,bat,L Ngidi,JS Wilson,P Wilson,CB Gaffaney,JJ Crowe,Group ,18.0,South Africa,Pakistan,87.0,
+Australia,Afghanistan,29,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,Afghanistan,field,DA Warner,AT Holdstock,RJ Tucker,CM Brown,RB Richardson,Group ,15.0,Australia,Afghanistan,100.0,
+Bangladesh,Netherlands,30,Maharashtra Cricket Association Stadium,Pune,Netherlands,field,PA van Meekeren,CB Gaffaney,RK Illingworth,M Erasmus,J Srinath,Group ,21.0,Netherlands,Bangladesh,,7.0
+Pakistan,Sri Lanka,31,Eden Gardens,Kolkata,Pakistan,bat,P Nissanka,Nitin Menon,RA Kettleborough,PR Reiffel,AJ Pycroft,Group ,13.0,Sri Lanka,Pakistan,,7.0
+New Zealand,England,32,Maharashtra Cricket Association Stadium,Pune,England,field,R Ravindra,Ahsan Raza,HDPK Dharmasena,P Wilson,RB Richardson,Group ,24.0,New Zealand,England,190.0,
+Australia,Bangladesh,33,Wankhede Stadium,Mumbai,Bangladesh,field,A Zampa,CM Brown,PR Reiffel,RK Illingworth,JJ Crowe,Group ,30.0,Australia,Bangladesh,302.0,
+South Africa,Netherlands,34,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,South Africa,bat,SA Edwards,Nitin Menon,Sharfuddoula,HDPK Dharmasena,J Srinath,Group ,28.0,Netherlands,South Africa,,7.0
+England,Sri Lanka,35,M Chinnaswamy Stadium,Bengaluru,Sri Lanka,field,P Nissanka,P Wilson,RA Kettleborough,JS Wilson,RB Richardson,Group ,30.0,England,Sri Lanka,201.0,
+India,Afghanistan,36,Narendra Modi Stadium,Ahmedabad,Afghanistan,field,Mohammed Shami,CB Gaffaney,M Erasmus,Ahsan Raza,JJ Crowe,Group ,24.0,India,Afghanistan,33.0,
+Australia,New Zealand,37,Eden Gardens,Kolkata,Australia,bat,SPD Smith,HDPK Dharmasena,PR Reiffel,AG Wharf,AJ Pycroft,Group ,28.0,Australia,New Zealand,243.0,
+Bangladesh,Pakistan,38,Arun Jaitley Stadium,Delhi,Pakistan,field,Saud Shakeel,M Erasmus,RK Illingworth,AT Holdstock,RB Richardson,Group ,30.0,Pakistan,Bangladesh,,3.0
+Netherlands,India,39,Wankhede Stadium,Mumbai,Netherlands,bat,KL Rahul,AG Wharf,MA Gough,Sharfuddoula,JJ Crowe,Group ,31.0,India,Netherlands,,3.0
+Afghanistan,South Africa,40,Maharashtra Cricket Association Stadium,Pune,Afghanistan,bat,Noor Ahmad,Ahsan Raza,RJ Tucker,P Wilson,AJ Pycroft,Group ,29.0,Afghanistan,South Africa,160.0,
+Bangladesh,England,41,M Chinnaswamy Stadium,Bengaluru,England,field,RJW Topley,AT Holdstock,JS Wilson,PR Reiffel,J Srinath,Group ,6.0,England,Bangladesh,,5.0
+Netherlands,New Zealand,42,Narendra Modi Stadium,Ahmedabad,Netherlands,bat,R Ravindra,CM Brown,Nitin Menon,CB Gaffaney,JJ Crowe,Group ,24.0,New Zealand,Netherlands,,5.0
+Pakistan,India,43,Maharashtra Cricket Association Stadium,Pune,India,field,Ishan Kishan,Ahsan Raza,M Erasmus,RA Kettleborough,AJ Pycroft,Group ,28.0,India,Pakistan,,8.0
+Afghanistan,Sri Lanka,44,Eden Gardens,Kolkata,Afghanistan,bat,Gulbadin Naib,P Wilson,RJ Tucker,PR Reiffel,J Srinath,Group ,25.0,Afghanistan,Sri Lanka,93.0,
+Australia,South Africa,45,M Chinnaswamy Stadium,Bengaluru,Australia,bat,M Labuschagne,CB Gaffaney,MA Gough,CM Brown,RB Richardson,Group ,28.0,Australia,South Africa,160.0,
+Australia,England,46,Wankhede Stadium,Mumbai,Australia,bat,A Zampa,RK Illingworth,RJ Tucker,AT Holdstock,AJ Pycroft,Semi Final ,37.0,Australia,England,70.0,
+New Zealand,India,47,Eden Gardens,Kolkata,New Zealand,bat,R Ashwin,Nitin Menon,RA Kettleborough,MA Gough,J Srinath,Semi Final ,28.0,India,New Zealand,,3.0
+Australia,India,48,Narendra Modi Stadium,Ahmedabad,India,field,R Ashwin,RK Illingworth,RA Kettleborough,CB Gaffaney,AJ Pycroft,Final ,30.0,India,Australia,,6.0
